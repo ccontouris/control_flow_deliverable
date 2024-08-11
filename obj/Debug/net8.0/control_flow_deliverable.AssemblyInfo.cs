@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("control_flow_deliverable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b148e76f88e85c6d6640ca8709ba453f6082eca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("control_flow_deliverable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("control_flow_deliverable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
